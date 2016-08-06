@@ -1,7 +1,7 @@
 name: Draft My Story
 favicon: null
 layout_spectrum: 0.25292
-typography_spectrum: 0.5095027452334762
+typography_spectrum: 0.50334
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#0e1728'
     - '#6d6e72'
     - '#abacae'
-  brandStrength: 0.31575160729698837
-  lightness: 0.11488103028386831
-  saturation: 0.1598715358413756
-  rhythmicContrast: 0.4215988586656749
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
